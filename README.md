@@ -25,7 +25,7 @@ Latest Sneak Peak: https://twitter.com/ZeraTron_/status/921129847958790145
 
 1. Install and build both *ps4sdk* & *libOrbis*
 2. Put the *HomebrewLauncher* folder in your *libOrbis* folder
-3. Build the payload, put it on a usb stick in a backup folder named **CUSAXXXXX** and plug in *usb0*
+3. Build the payload, rename it **eboot_plugin** put it on a usb stick in a backup folder named **CUSAXXXXX** and plug in *usb0*
 4. Send the *kernel_hooks* with the elf-loader
 5. Launch Playroom, you should boot up in the homebrew
 
