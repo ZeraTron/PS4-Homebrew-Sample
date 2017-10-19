@@ -372,7 +372,7 @@ int main(uint64_t stackbase, uint64_t othervalue)
 				}
 			}
 			
-			if(toggle == 4) Options menu
+			if(toggle == 4) //Options menu
 			{
 				orbis2dClearBuffer();
 				orbis2dDrawRectColor(0, 1280, 0, 30, orbis2dGetRGB(25, 25, 25));
